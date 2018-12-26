@@ -1,4 +1,4 @@
-This is a fork of JeeLab's fantastic real time clock library for Arduino.
+This is a fork of JeeLab's fantastic real time clock library for Arduino, see https://github.com/adafruit/RTClib
 
 For details on using this library with an RTC module like the DS1307, see the guide at: https://learn.adafruit.com/ds1307-real-time-clock-breakout-board-kit/overview
 
